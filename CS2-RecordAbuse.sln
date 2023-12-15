@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS2-RecordAbuse", "CS2-RecordAbuse.csproj", "{9FF1C66A-9CC2-4481-B6D4-F84379B36877}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FF1C66A-9CC2-4481-B6D4-F84379B36877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF1C66A-9CC2-4481-B6D4-F84379B36877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF1C66A-9CC2-4481-B6D4-F84379B36877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF1C66A-9CC2-4481-B6D4-F84379B36877}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5F983FE-45B6-4045-AE5A-959185D27C6C}
+	EndGlobalSection
+EndGlobal

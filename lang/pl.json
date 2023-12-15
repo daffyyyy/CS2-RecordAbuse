@@ -1,0 +1,6 @@
+{
+	"ra_prefix": "{lightred}[Demo] {default}",
+	"ra_start": "{lime}Rozpocza³eœ nagrywanie demka",
+	"ra_stop": "{silver}Zatrzyma³eœ nagrywanie demka, jesgo nazwa to {lime}{0}",
+	"ra_status": "{silver}Aktualny status nagrywania demka {0}"
+}

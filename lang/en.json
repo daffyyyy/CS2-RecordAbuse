@@ -1,0 +1,6 @@
+{
+	"ra_prefix": "{lightred}[Record] {default}",
+	"ra_start": "{lime}You have started recording the demo",
+	"ra_stop": "{silver}You have stopped recording the demo, demo name {lime}{0}",
+	"ra_status": "{silver}Currently demo status {0}"
+}

@@ -12,4 +12,4 @@ css_record <start/stop/status>
 ```
 
 ### Demos localization
-**counterstrikesharp/CS2-RecordAbuse/demos**
+**counterstrikesharp/plugins/CS2-RecordAbuse/demos**
